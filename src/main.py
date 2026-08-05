@@ -29,7 +29,7 @@ from site_actions.site_mc_server_list import SiteMcServerListAutomator
 
 CURRENT_VERSION = "v1.0.0"
 REPO_OWNER = "neelnix"
-REPO_NAME = "autoVoter"
+REPO_NAME = "mc-auto-voter"
 
 
 # site_urls = ['https://minecraftkrant.nl/server/pikanetwork/vote']
