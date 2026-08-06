@@ -60,8 +60,7 @@ class SiteBestMcServersAutomater(SiteAutomator):
                     return
 
             if (
-                page.url
-                == "https://best-minecraft-servers.co/server-pikanetwork-bestq-pika-host.4401/vote"
+                "vote" in page.url
                 and await page.get_by_text(
                     "You must wait until tomorrow before voting again!"
                 ).is_visible()
