@@ -33,7 +33,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">autoVoter</h3>
+<h3 align="center">mc-auto-voter</h3>
 
   <p align="center">
     A simple automation script in python to perform automatic server voting for cracked minecraft servers. 
@@ -62,7 +62,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation for the script</a></li>
+        <li><a href="#installation-for-the-script">Installation for the script</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -191,16 +191,14 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/neelnix/autoVoter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/neelnix/autoVoter/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/neelnix/autoVoter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/neelnix/autoVoter/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/neelnix/autoVoter/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[contributors-shield]: https://img.shields.io/github/contributors/neelnix/mc-auto-voter.svg?style=for-the-badge
+[contributors-url]: https://github.com/neelnix/mc-auto-voter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/neelnix/mc-auto-voter.svg?style=for-the-badge
+[forks-url]: https://github.com/neelnix/mc-auto-voter/network/members
+[stars-shield]: https://img.shields.io/github/stars/neelnix/mc-auto-voter.svg?style=for-the-badge
+[stars-url]: https://github.com/neelnix/mc-auto-voter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/neelnix/mc-auto-voter.svg?style=for-the-badge
+[issues-url]: https://github.com/neelnix/mc-auto-voter/issues
+[license-shield]: https://img.shields.io/github/license/neelnix/mc-auto-voter.svg?style=for-the-badge
+[license-url]: https://github.com/neelnix/mc-auto-voter/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
